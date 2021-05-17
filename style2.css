@@ -1,0 +1,11 @@
+.ciekawostki{
+width: 50%;
+float:left;
+}
+.zdjecie{
+width: 50%;
+float:right;
+}
+.historia{
+width: 100%;
+}
